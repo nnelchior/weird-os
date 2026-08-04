@@ -31,6 +31,7 @@ modules:
         - xdg-desktop-portal-hyprland
         - kitty
         - git
+        - matugen
         - zoxide
         - lazygit
         - eza
@@ -43,7 +44,10 @@ modules:
         - hyprland-guiutils
         - hyprpolkitagent
         - xdg-desktop-portal
-
+    remove:
+      packages:
+        - nwg-panel
+        
   - type: default-flatpaks
     configurations:
       - notify: true
