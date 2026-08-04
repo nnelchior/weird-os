@@ -12,13 +12,11 @@ modules:
     files:
       - source: system
         destination: /
-
   - type: dnf
     repos:
-      # COPR репозитории
       copr:
         - solopasha/hyprland
-        - atim/starship
+        - atim/starship 
     install:
       packages:
         - hyprland
