@@ -44,6 +44,8 @@ modules:
         - hyprland-guiutils
         - hyprpolkitagent
         - xdg-desktop-portal
+        - btop
+        
     remove:
       packages:
         - nwg-panel
