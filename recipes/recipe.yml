@@ -41,6 +41,8 @@ modules:
         - yazi
         - sddm
         - hyprland-guiutils
+        - hyprpolkitagent
+        - xdg-desktop-portal
 
   - type: default-flatpaks
     configurations:
