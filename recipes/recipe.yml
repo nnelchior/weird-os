@@ -48,6 +48,7 @@ modules:
       packages:
         - nwg-panel
         - nvtop
+        - htop
         
   - type: default-flatpaks
     configurations:
