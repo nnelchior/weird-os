@@ -20,6 +20,7 @@ modules:
         - avengemedia/dms-git
         - dejan/lazygit
         - ifas/zellij
+        - boobaa/yazi
         
     install:
       packages:
@@ -37,6 +38,7 @@ modules:
         - nushell
         - zellij
         - fzf
+        - yazi
 
   - type: default-flatpaks
     configurations:
