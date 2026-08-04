@@ -45,6 +45,7 @@ modules:
         - hyprpolkitagent
         - xdg-desktop-portal
         - btop
+        - plasma-discover
         
     remove:
       packages:
