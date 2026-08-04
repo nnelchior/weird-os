@@ -17,8 +17,10 @@ modules:
       copr:
         - lionheartp/Hyprland
         - atim/starship 
+        - avengemedia/dms-git
     install:
       packages:
+        - dms
         - hyprland
         - neovim
         - starship
