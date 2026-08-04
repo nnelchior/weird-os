@@ -4,7 +4,7 @@
 name: weird-os
 description: This is my personal OS image.
 
-base-image: ghcr.io/ublue-os/silverblue-main
+base-image: ghcr.io/ublue-os/base-main
 image-version: latest
 
 modules:
