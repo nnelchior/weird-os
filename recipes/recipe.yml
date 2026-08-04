@@ -47,6 +47,9 @@ modules:
     remove:
       packages:
         - nwg-panel
+        - nwg-dwl-interface
+        - nwg-panel-config
+        - nwg-processes
         - nvtop
         - htop
         
