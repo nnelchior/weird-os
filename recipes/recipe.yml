@@ -46,6 +46,10 @@ modules:
         - xdg-desktop-portal
         - btop
         - plasma-discover
+        - qt5ct
+        - qt6ct
+        - power-profiles-daemon
+        - cups-pk-helper
         
     remove:
       packages:
