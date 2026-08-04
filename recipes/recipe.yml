@@ -18,6 +18,9 @@ modules:
         - lionheartp/Hyprland
         - atim/starship 
         - avengemedia/dms-git
+        - dejan/lazygit
+        - ifas/zellij
+        
     install:
       packages:
         - dms
@@ -27,6 +30,13 @@ modules:
         - xdg-desktop-portal-hyprland
         - kitty
         - git
+        - zoxide
+        - lazygit
+        - eza
+        - ripgrep
+        - nushell
+        - zellij
+        - fzf
 
   - type: default-flatpaks
     configurations:
