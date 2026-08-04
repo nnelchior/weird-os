@@ -47,6 +47,7 @@ modules:
     remove:
       packages:
         - nwg-panel
+        - nvtop
         
   - type: default-flatpaks
     configurations:
