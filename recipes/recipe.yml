@@ -39,6 +39,7 @@ modules:
         - zellij
         - fzf
         - yazi
+        - sddm
 
   - type: default-flatpaks
     configurations:
