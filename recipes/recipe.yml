@@ -54,6 +54,7 @@ modules:
         - nwg-processes
         - nvtop
         - htop
+        - uuctl
         
   - type: default-flatpaks
     configurations:
