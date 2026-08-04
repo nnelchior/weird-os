@@ -27,12 +27,6 @@ modules:
         - xdg-desktop-portal-hyprland
         - kitty
         - git
-        - lazygit
-        - bat
-        - eza
-        - fzf
-        - ripgrep
-        - zoxide
 
   - type: default-flatpaks
     configurations:
