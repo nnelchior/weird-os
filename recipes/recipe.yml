@@ -44,6 +44,7 @@ modules:
         scope: system
         install:
           - org.mozilla.firefox
+          - io.podman_desktop.PodmanDesktop
           
       - scope: user
 
