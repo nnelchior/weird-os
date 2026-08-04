@@ -22,6 +22,7 @@ modules:
         - hyprland
         - neovim
         - starship
+        - xdg-desktop-portal-hyprland
 
   - type: default-flatpaks
     configurations:
