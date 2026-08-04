@@ -15,15 +15,15 @@ modules:
 
   - type: dnf
     repos:
+      # COPR репозитории
       copr:
+        - solopasha/hyprland
         - atim/starship
     install:
       packages:
+        - hyprland
         - neovim
         - starship
-    remove:
-      packages:
-        - firefox
 
   - type: default-flatpaks
     configurations:
