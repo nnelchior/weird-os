@@ -50,6 +50,7 @@ modules:
         - qt6ct
         - power-profiles-daemon
         - cups-pk-helper
+        - chsh
         
     remove:
       packages:
