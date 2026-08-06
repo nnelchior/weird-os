@@ -45,12 +45,12 @@ modules:
         - hyprpolkitagent
         - xdg-desktop-portal
         - btop
+        - fastfetch
         - plasma-discover
         - qt5ct
         - qt6ct
         - power-profiles-daemon
         - cups-pk-helper
-        - chsh
         
     remove:
       packages:
