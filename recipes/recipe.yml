@@ -21,6 +21,7 @@ modules:
         - dejan/lazygit
         - ifas/zellij
         - boobaa/yazi
+        - che/nerd-fonts
         
     install:
       packages:
@@ -52,6 +53,7 @@ modules:
         - power-profiles-daemon
         - cups-pk-helper
         - greetd
+        - caskaydia-cove
         
     remove:
       packages:
